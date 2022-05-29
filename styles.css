@@ -1,0 +1,17 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.bloque1{
+	background: #33FF33;
+}
+
+.bloque1 > p {
+	color: red;
+}
+
+.bloque1 > h2 {
+	font-size: 2em;
+	font-family: Gabriola;
+}
